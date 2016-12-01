@@ -1,0 +1,9 @@
+E:\mathfuck\Методи обч\MO_4_Interpolation\MO_4_Interpolation\bin\Debug\MO_4_Interpolation.exe.config
+E:\mathfuck\Методи обч\MO_4_Interpolation\MO_4_Interpolation\bin\Debug\MO_4_Interpolation.exe
+E:\mathfuck\Методи обч\MO_4_Interpolation\MO_4_Interpolation\bin\Debug\MO_4_Interpolation.pdb
+E:\mathfuck\Методи обч\MO_4_Interpolation\MO_4_Interpolation\obj\Debug\MO_4_Interpolation.csprojResolveAssemblyReference.cache
+E:\mathfuck\Методи обч\MO_4_Interpolation\MO_4_Interpolation\obj\Debug\MO_4_Interpolation.Form1.resources
+E:\mathfuck\Методи обч\MO_4_Interpolation\MO_4_Interpolation\obj\Debug\MO_4_Interpolation.Properties.Resources.resources
+E:\mathfuck\Методи обч\MO_4_Interpolation\MO_4_Interpolation\obj\Debug\MO_4_Interpolation.csproj.GenerateResource.Cache
+E:\mathfuck\Методи обч\MO_4_Interpolation\MO_4_Interpolation\obj\Debug\MO_4_Interpolation.exe
+E:\mathfuck\Методи обч\MO_4_Interpolation\MO_4_Interpolation\obj\Debug\MO_4_Interpolation.pdb
